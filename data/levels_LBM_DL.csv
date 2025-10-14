@@ -1,0 +1,5 @@
+Parameter,Min_Value,Max_Value,Min_Code,Max_Code
+Lamp current (x1),17.0,25.0,-2,2
+Pulse frequency (x2),1.0,5.0,-2,2
+Air pressure (x3),0.6,2.2,-2,2
+Pulse width (x4),2.0,18.0,-2,2
