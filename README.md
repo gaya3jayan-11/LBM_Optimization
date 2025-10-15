@@ -53,7 +53,7 @@ The project is built using Python within a Visual Studio Code (VS Code) Jupyter 
 
 1.  **Clone the Repository:** Open your terminal/command prompt and clone the project:
     ```bash
-    git clone [https://github.com/your-username/LBM_Optimization.git](https://github.com/your-username/LBM_Optimization.git)
+    git clone https://github.com/gaya3jayan-11/LBM_Optimization.git
     cd LBM_Optimization
     ```
 
