@@ -49,7 +49,7 @@ Our project validates the supremacy of the multi-objective approach over traditi
 
 The project is built using Python within a Visual Studio Code (VS Code) Jupyter Notebook environment.
 
-### 3.1 Setup (For All Team Members)
+### 3.1 Setup
 
 1.  **Clone the Repository:** Open your terminal/command prompt and clone the project:
     ```bash
